@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/lithium" name="DU-Mi-Mix-Max-2/android_device_xiaomi_lithium" remote="github" revision="n7x-caf"/>
+  <project path="device/xiaomi/msm8996-common" name="DU-Mi-Mix-Max-2/android_device_xiaomi_msm8996-common" remote="github" revision="n7x-caf"/>
+
+  <project path="vendor/nxp-nfc/opensource/frameworks" name="DirtyUnicorns/android_vendor_nxp-nfc_opensource_frameworks" remote="github" revision="n7x-caf"/>
+  <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="DirtyUnicorns/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" revision="n7x-caf"/>
+  <project path="vendor/nxp-nfc/opensource/Nfc" name="DirtyUnicorns/android_vendor_nxp-nfc_opensource_Nfc" remote="github" revision="n7x-caf"/>
+  <project path="system/qcom" name="DirtyUnicorns/android_system_qcom" remote="github" revision="n7x-caf" />
+  
+  <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
+  <project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="cm-14.1" />
+  <project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" remote="github" revision="cm-14.1" />
+  <project path="external/ant-wireless/ant_service" name="LineageOS/android_external_ant-wireless_ant_service" remote="github" revision="cm-14.1" />
+  <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="github" revision="cm-14.1" />
+</manifest>
