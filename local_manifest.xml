@@ -7,7 +7,8 @@
   <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="DirtyUnicorns/android_vendor_nxp-nfc_opensource_libnfc-nci" remote="github" revision="n7x-caf"/>
   <project path="vendor/nxp-nfc/opensource/Nfc" name="DirtyUnicorns/android_vendor_nxp-nfc_opensource_Nfc" remote="github" revision="n7x-caf"/>
   <project path="system/qcom" name="DirtyUnicorns/android_system_qcom" remote="github" revision="n7x-caf" />
-  
+
+  <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" remote="github" revision="cm-14.1" />
   <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
   <project path="kernel/xiaomi/msm8996" name="LineageOS/android_kernel_xiaomi_msm8996" remote="github" revision="cm-14.1" />
   <project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" remote="github" revision="cm-14.1" />
